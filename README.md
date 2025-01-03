@@ -1,9 +1,9 @@
-<h2 align="left">Hi, I'm Stritixx 👋</h2>
+<h1 align="left">Hi, I'm Stritixx 👋</h1>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://s2.ezgif.com/tmp/ezgif-2-d764f93c65.gif"  />
+  <img height="150" src="https://i.imgur.com/cWrVXu4.jpeg"  />
 </div>
 
 ###
@@ -34,6 +34,6 @@
 
 ###
 
-<h5 align="left">✨ Hello, I'm Stritixx and I'm keen on proggraming.<br>✨ Currently I'm learning Vue.js & Nuxt.js</h5>
+<h4 align="left">✨ Hello, I'm Stritixx and I'm keen on proggraming.<br>✨ Currently I'm learning Vue.js & Nuxt.js</h4>
 
 ###
