@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="33" alt="css3 logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="33" alt="tailwindcss logo"  />
 </div>
 
 ###
